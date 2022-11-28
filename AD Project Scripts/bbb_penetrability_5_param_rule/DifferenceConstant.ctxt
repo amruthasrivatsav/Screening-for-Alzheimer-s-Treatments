@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DifferenceConstant
+comment1.params=inputMol
+comment1.target=double\ getConstant(Molecule)
+comment2.params=inputHBD
+comment2.target=boolean\ compareHBD(Molecule)
+comment3.params=inputHBA
+comment3.target=boolean\ compareHBA(Molecule)
+comment4.params=inputMW
+comment4.target=boolean\ compareMW(Molecule)
+comment5.params=inputPSA
+comment5.target=boolean\ comparePSA(Molecule)
+comment6.params=inputKa
+comment6.target=boolean\ comparepKa(Molecule)
+comment7.params=inputlogP
+comment7.target=boolean\ comparelogP(Molecule)
+comment8.params=inputROT
+comment8.target=boolean\ compareROT(Molecule)
+numComments=9
